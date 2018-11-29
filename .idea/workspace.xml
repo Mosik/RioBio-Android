@@ -11,9 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb865fa8-bb96-4663-89ca-9815c9b916a0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fb865fa8-bb96-4663-89ca-9815c9b916a0" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -2345,10 +2343,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1639" />
-    <option name="y" value="30" />
-    <option name="width" value="1547" />
-    <option name="height" value="880" />
+    <option name="x" value="32767" />
+    <option name="y" value="32767" />
+    <option name="width" value="1940" />
+    <option name="height" value="1220" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -2507,7 +2505,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1639" y="30" width="1547" height="880" extended-state="0" />
+    <frame x="32767" y="32767" width="1940" height="1220" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -2524,8 +2522,8 @@
       <window_info id="Captures" order="2" weight="0.25" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24949563" />
-      <window_info anchor="bottom" id="Build" visible="true" weight="0.328877" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19755058" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.22610295" />
       <window_info anchor="right" id="Gradle" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Theme Preview" />
