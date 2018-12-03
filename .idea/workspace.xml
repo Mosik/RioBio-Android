@@ -11,7 +11,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb865fa8-bb96-4663-89ca-9815c9b916a0" name="Default" comment="" />
+    <list default="true" id="fb865fa8-bb96-4663-89ca-9815c9b916a0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -2342,7 +2344,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="32767" />
     <option name="y" value="32767" />
     <option name="width" value="1940" />
@@ -2505,8 +2507,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="32767" y="32767" width="1940" height="1220" extended-state="0" />
-    <editor active="true" />
+    <frame x="32767" y="32767" width="1940" height="1220" extended-state="1" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Android Profiler" />
